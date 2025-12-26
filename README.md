@@ -1,18 +1,17 @@
-# Hi there! 👋 I'm Ashish Kumar
+<div align = "center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AshishKumarD&hide=contribs&show_icons=true" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKumarD&size_weight=0.2&count_weight=0.8&hide=html&layout=compact&langs_count=8" />
+</div>
 
-Welcome to my GitHub profile!
+<p align="center">
+<h2 align="center">Ashish Kumar <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-## About Me
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshishKumarD&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 
-- 🔭 I'm currently working on various projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 💻 Experience with Java, C++, Android, and more
-- 📫 How to reach me: [GitHub](https://github.com/AshishKumarD)
-
-## My GitHub Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/AshishKumarD/AshishKumarD/output/github-contribution-grid-snake.svg)
-
----
-
-From [AshishKumarD](https://github.com/AshishKumarD)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshishKumarD/AshishKumarD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshishKumarD/AshishKumarD/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AshishKumarD/AshishKumarD/output/github-contribution-grid-snake.svg">
+</picture>
