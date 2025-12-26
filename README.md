@@ -9,16 +9,10 @@ Welcome to my GitHub profile!
 - 💻 Experience with Java, C++, Android, and more
 - 📫 How to reach me: [GitHub](https://github.com/AshishKumarD)
 
-## My GitHub Stats
+## My GitHub Contributions
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/AshishKumarD/AshishKumarD/output/github-contribution-grid-snake.svg)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishKumarD&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKumarD&layout=compact&theme=radical)
-
----
-
-⭐️ From [AshishKumarD](https://github.com/AshishKumarD)
+From [AshishKumarD](https://github.com/AshishKumarD)
